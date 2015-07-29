@@ -5,7 +5,7 @@ category: code
 comments: true
 ---
 
-(http://github.com/dominjune/blog/raw/master/_posts/lena.jpg)
+ ![image](http://github.com/dominjune/blog/raw/master/_posts/lena.jpg)
 
 ## 感想
 

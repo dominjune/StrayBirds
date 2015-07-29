@@ -5,7 +5,7 @@ category: code
 comments: true
 ---
 
-![image](https://github.com/dominjune/blog/raw/master/image.png)
+![image](/images/image.png)
 
 ## 感想
 

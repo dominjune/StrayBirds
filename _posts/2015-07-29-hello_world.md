@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coding
+title: Coder
 category: code
 comments: true
 ---
@@ -12,7 +12,7 @@ comments: true
 不仔细，总是看着别人的模板来写，自己也就理解不透彻，其实是浪费了时间；我们必须要打好基础，数学的基础，培养成自
 己的一套变成思路，比如说下面一个求多边形面积的代码，就利用了叉积，这是一个体现很基础的数学知识与编程结合的栗子：
 
-```
+```c++
 	double polygon_area(int n)
 	{
 		double area=0;

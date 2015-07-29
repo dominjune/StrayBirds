@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coder
+title: Coding
 category: code
 comments: true
 ---

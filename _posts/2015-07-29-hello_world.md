@@ -5,7 +5,7 @@ category: code
 comments: true
 ---
 
-![github](http://github.com/unicorn.png "github")
+![img](https://github.com/dominjune/blog/raw/master/lena.jpg)
 
 ## 感想
 

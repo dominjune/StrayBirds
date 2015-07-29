@@ -58,10 +58,10 @@ nav:
     url: navigations/categories.html
   - text: 文章归档
     url: navigations/archives.html
-  #- text: 联系我
-  # url: navigations/contact.html
-  #- text: 友情链接
-  #  url: navigations/links.html
+    text: 联系我
+    url: navigations/contact.html
+    text: 友情链接
+    url: navigations/links.html
 
 #Author config
 author:

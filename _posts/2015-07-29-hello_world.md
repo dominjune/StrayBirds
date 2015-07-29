@@ -5,7 +5,7 @@ category: code
 comments: true
 ---
 
-![image](/images/image.png)
+![checker](/images/checker.png)
 
 ## 感想
 
